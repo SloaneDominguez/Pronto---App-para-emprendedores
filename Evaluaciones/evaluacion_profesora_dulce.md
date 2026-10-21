@@ -1,0 +1,26 @@
+# 📝 Hoja de Evaluación: Profesora Dulce
+
+**Evaluadora:** Profesora Dulce Sugey Rodriguez Gonzalez 
+**Fecha de evaluación:** DD/MM/AAAA
+
+## 🚥 Código de Estado
+*   ⚪ **Blanco:** No probado aún.
+*   🟡 **Amarillo:** Probado, pero se encontraron errores o detalles.
+*   🟢 **Verde:** Probado y funciona perfectamente.
+
+## 📊 Tabla de Pruebas
+
+| Funcionalidad | Estado (⚪/🟡/🟢) | Observaciones / Errores Encontrados |
+| :--- | :---: | :--- |
+| Registro manual (Correo y Contraseña) | ⚪ | |
+| Inicio de sesión manual | ⚪ | |
+| Acceso con cuenta de Google | ⚪ | |
+| Subir productos al inventario | ⚪ | |
+| Realizar ventas | ⚪ | |
+| Ver historial de ventas | ⚪ | |
+| Agendar citas | ⚪ | |
+
+## 💬 Reporte de Errores y Comentarios Adicionales
+*(Si marcaste algo en amarillo 🟡, por favor describa el error o sus observaciones generales de la aplicación aquí)*
+
+- 
