@@ -6,13 +6,3 @@ Este espacio está diseñado exclusivamente para la descarga y evaluación de la
 ## 📥 Enlace de Descarga
 *Puedes descargar la última versión de la aplicación desde la sección de **Releases**.*
 👉 **[Descargar Pronto APK (Versión Final) aquí](../../releases/latest)** 
-
-## 👥 Equipo Evaluador
-Agradezco de antemano el tiempo dedicado a probar mi aplicación:
-*   **Profesora:** Dulce Sugey Rodríguez Gonzalez
-*   **Compañeros evaluadores:** Flor, Evelyn y Alan Gael
-
-## 📝 ¿Cómo realizar la evaluación?
-He preparado un documento específico con una tabla de pruebas para facilitar su revisión. Por favor, sigan el siguiente enlace para registrar sus resultados usando el código de colores indicado.
-
-👉 **[Ir a la Carpeta de Evaluación](Evaluaciones)**
