@@ -12,10 +12,10 @@
 
 | Funcionalidad | Estado (⚪/🟡/🟢) | Observaciones / Errores Encontrados |
 | :--- | :---: | :--- |
-| Registro manual (Correo y Contraseña) | 🟢 |h |
-| Inicio de sesión manual | 🟢 | |
-| Acceso con cuenta de Google | 🟢 | |
-| Subir productos al inventario | 🟢 | |
+| Registro manual (Correo y Contraseña) | 🟢 |El registro manual no hubo ningun error |
+| Inicio de sesión manual | 🟢 |El inicio de sesion no genero ningun fallo inicie con mi usuario regsitrado si nin detalle |
+| Acceso con cuenta de Google | 🟢 |Ningun error al iniciar sesion con Google |
+| Subir productos al inventario | 🟢 |Pude subir cualquier producto|
 | Realizar ventas | 🟢 | |
 | Ver historial de ventas | 🟢 | |
 | Agendar citas | 🟢 | |
