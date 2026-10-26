@@ -13,14 +13,17 @@
 | Funcionalidad | Estado (⚪/🟡/🟢) | Observaciones / Errores Encontrados |
 | :--- | :---: | :--- |
 | Registro manual (Correo y Contraseña) | ⚪ | *Ej: Escribe aquí si hubo algún error* |
-| Inicio de sesión manual | ⚪ | |
-| Acceso con cuenta de Google | ⚪ | |
-| Subir productos al inventario | ⚪ | |
-| Realizar ventas | ⚪ | |
-| Ver historial de ventas | ⚪ | |
-| Agendar citas | ⚪ | |
+| Inicio de sesión manual |    🟢 | |
+| Acceso con cuenta de Google |    🟢 | |
+| Subir productos al inventario |  🟢 | |
+| Realizar ventas |   🟢 | |
+| Ver historial de ventas |   🟢 | |
+| Agendar citas |   🟢 | |
 
 ## 💬 Reporte de Errores y Comentarios Adicionales
 *(Si marcaste algo en amarillo 🟡, por favor describe el error con más detalle aquí. ¿Qué intentaste hacer y qué falló?)*
 
-- 
+recomendaciones 
+Recomiendo añadir una opción de recuperar contraseña.
+Y agregar términos y condiciones 
+Agregar inicio de sesión con Facebook
