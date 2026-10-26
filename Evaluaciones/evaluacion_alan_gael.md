@@ -12,7 +12,7 @@
 
 | Funcionalidad | Estado (⚪/🟡/🟢) | Observaciones / Errores Encontrados |
 | :--- | :---: | :--- |
-| Registro manual (Correo y Contraseña) | 🟢 | |
+| Registro manual (Correo y Contraseña) | 🟢 |h |
 | Inicio de sesión manual | 🟢 | |
 | Acceso con cuenta de Google | 🟢 | |
 | Subir productos al inventario | 🟢 | |
