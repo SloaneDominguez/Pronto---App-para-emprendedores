@@ -16,9 +16,9 @@
 | Inicio de sesión manual | 🟢 |El inicio de sesion no genero ningun fallo inicie con mi usuario regsitrado si nin detalle |
 | Acceso con cuenta de Google | 🟢 |Ningun error al iniciar sesion con Google |
 | Subir productos al inventario | 🟢 |Pude subir cualquier producto|
-| Realizar ventas | 🟢 | |
-| Ver historial de ventas | 🟢 | |
-| Agendar citas | 🟢 | |
+| Realizar ventas | 🟢 |Realizar ventas fue un exito |
+| Ver historial de ventas | 🟢 |Historial de ventas bien hecha pude ver cada producto que subi al iventario |
+| Agendar citas | 🟢 |Buena agenda de citas, pude agendar citas con el lugar yfecha que puedo yo citar|
 
 ## 💬 Reporte de Errores y Comentarios Adicionales
 *(Si marcaste algo en amarillo 🟡, por favor describe el error con más detalle aquí. ¿Qué intentaste hacer y qué falló?)*
